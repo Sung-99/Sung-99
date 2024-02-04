@@ -5,6 +5,7 @@
 <!--
 ***Tirei como base um template de um projeto de outro github
 ***https://github.com/othneildrew/Best-README-Template/blob/master/README.md?plain=1
+***Alem de usar como exemplo alguns readme profiles: https://github.com/bistcuite/bistcuite/blob/main/README.md
 -->
 
 
@@ -17,23 +18,33 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
-</div>
-
-<div id="linkedinHeader" align="center">
   
+   ![ImageGif]
+  
+  # Hi there 👋, I am  Vitor Hugo 
+
+  ##  Tech Stack
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+  ##  Reach me
   ![LinkedIn][linkedin-shield]
   
+ 
 </div>
 
 
-<div id="title" align="center"> 
-  
-  ### Hi there 👋, I am  Vitor Hugo 
+<hr>
 
-</div>
+
+    
+  <p style="text-align:center">
+      Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Work with HTML, JavaScript, Java and C++, always eager to learn and ready to face challenges around the world.
+  </p>
+
 
 <!--
 **Sung-99/Sung-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,10 +68,16 @@ Here are some ideas to get you started:
 
 
 
+<!--
+***All links on shields or images
+
+-->
 
 
 
-
-
+[ImageGif]:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 [linkedin-shield]: https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue
 [linkedin-url]: https://www.linkedin.com/in/vitor-hugo99/
+
+
+
