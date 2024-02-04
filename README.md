@@ -31,7 +31,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
   ##  Reach me
-   ![linkedin-url][linkedin-shield][1]
+   ![[linkedin-url]][linkedin-shield]
   
  
 </div>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [ImageGif]:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 [linkedin-shield]: https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue
 [linkedin-url]: https://www.linkedin.com/in/vitor-hugo99/
-[1]: https://www.linkedin.com/in/vitor-hugo99/
+
 
 
 
