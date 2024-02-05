@@ -40,7 +40,11 @@
   
   ![Vitor's GitHub stats][Vitor-stats-vercel]
   ![Github Streaks][Streak-stats]
+
+  ## Most used languages
   
+  ![Top Langs][top-langu-vercel]
+
 </div>
 
 
@@ -91,3 +95,4 @@ Here are some ideas to get you started:
 [JavaScript-shield]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Vitor-stats-vercel]:https://github-readme-stats.vercel.app/api?username=Sung-99&show_icons=true&theme=radical
 [Streak-stats]:https://github-readme-streak-stats.herokuapp.com/?user=Sung-99&theme=radical
+[top-langu-vercel]:https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-99&layout=compact&theme=radical
