@@ -5,7 +5,10 @@
 <!--
 ***Tirei como base um template de um projeto de outro github
 ***https://github.com/othneildrew/Best-README-Template/blob/master/README.md?plain=1
-***Alem de usar como exemplo alguns readme profiles: https://github.com/bistcuite/bistcuite/blob/main/README.md
+***Alem de usar como exemplo alguns readme profiles: 
+**https://github.com/bistcuite/bistcuite/blob/main/README.md
+**https://github.com/anuraghazra/github-readme-stats
+***
 -->
 
 
@@ -25,15 +28,18 @@
   # Hi there 👋, I am  Vitor Hugo 
 
   ##  Tech Stack
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+  ![C++][c++Shield]
+  ![HTML5][html-shield] 
+  ![CSS3][css-shield]
+  ![JavaScript][JavaScript-shield]
+  
   ##  Reach me
    [![linkedin][linkedin-shield]][linkedin-url]
   
- 
+  ##  Github stats
+  
+  ![Vitor's GitHub stats][Vitor-stats-vercel]
+
 </div>
 
 
@@ -78,7 +84,8 @@ Here are some ideas to get you started:
 [ImageGif]:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 [linkedin-shield]: https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue
 [linkedin-url]: https://www.linkedin.com/in/vitor-hugo99/
-
-
-
-
+[c++Shield]:https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[html-shield]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css-shield]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[JavaScript-shield]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Vitor-stats-vercel]:https://github-readme-stats.vercel.app/api?username=Sung-99&show_icons=true&theme=radical
