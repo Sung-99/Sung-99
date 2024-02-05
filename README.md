@@ -21,7 +21,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<div id="header" align="center">
+<div align="center">
   
    ![ImageGif]
   
@@ -35,7 +35,16 @@
   
   ##  Reach me
    [![linkedin][linkedin-shield]][linkedin-url]
+<hr>
+
+  <p style="text-align:center">
+      Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Work with HTML, JavaScript, Java and C++, always eager to learn and ready to face challenges around the world.
+  </p>
   
+<hr>  
+</div>
+
+<div align="center">  
   ##  Github stats
   
   ![Vitor's GitHub stats][Vitor-stats-vercel]
@@ -46,16 +55,6 @@
   ![Top Langs][top-langu-vercel]
 
 </div>
-
-
-<hr>
-
-
-    
-  <p style="text-align:center">
-      Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Work with HTML, JavaScript, Java and C++, always eager to learn and ready to face challenges around the world.
-  </p>
-
 
 <!--
 **Sung-99/Sung-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,17 +71,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-
-
-
 <!--
 ***All links on shields or images
 
 -->
+
+
+
 
 
 
