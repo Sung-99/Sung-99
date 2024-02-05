@@ -39,7 +39,8 @@
   ##  Github stats
   
   ![Vitor's GitHub stats][Vitor-stats-vercel]
-
+  ![Github Streaks][Streak-stats]
+  
 </div>
 
 
@@ -89,3 +90,4 @@ Here are some ideas to get you started:
 [css-shield]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript-shield]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Vitor-stats-vercel]:https://github-readme-stats.vercel.app/api?username=Sung-99&show_icons=true&theme=radical
+[Streak-stats]:https://github-readme-streak-stats.herokuapp.com/?user=Sung-99&theme=radical
