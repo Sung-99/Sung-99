@@ -34,14 +34,14 @@
   ![JavaScript][JavaScript-shield]
   
   ##  Reach me
-   [![linkedin][linkedin-shield]][linkedin-url]
-<hr>
+  [![linkedin][linkedin-shield]][linkedin-url]
+  <hr>
 
-  <p style="text-align:center">
+   <p style="text-align:center">
       Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Work with HTML, JavaScript, Java and C++, always eager to learn and ready to face challenges around the world.
-  </p>
+   </p>
   
-<hr>  
+  <hr>  
 </div>
 
 <div align="center">
