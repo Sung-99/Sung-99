@@ -44,7 +44,8 @@
 <hr>  
 </div>
 
-<div align="center">  
+<div align="center">
+  
   ##  Github stats
   
   ![Vitor's GitHub stats][Vitor-stats-vercel]
