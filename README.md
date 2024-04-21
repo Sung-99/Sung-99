@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Sung-99&style=flat-square&abbreviated=true)
+  ![][views]
   
    ![ImageGif]
 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+[views]:https://komarev.com/ghpvc/?username=Sung-99&style=flat-square&abbreviated=true
 [source]:https://git.io/typing-svg
 [Apresentation]:https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=3000&color=001AF7&random=false&width=435&lines=Hi+there%2C+%F0%9F%91%8B+i'm+Vitor
 [ImageGif]:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
