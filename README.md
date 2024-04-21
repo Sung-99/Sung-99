@@ -2,6 +2,7 @@
 <a name="readme-top"></a>
 
 
+
 <!--
 ***Tirei como base um template de um projeto de outro github
 ***https://github.com/othneildrew/Best-README-Template/blob/master/README.md?plain=1
@@ -22,10 +23,13 @@
 -->
 
 <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=Sung-99&style=flat-square)
   
    ![ImageGif]
-  
-  # Hi there 👋, I am  Vitor Hugo 
+
+  # [![Typing SVG][Apresentation]][source]
+
 
   ##  Tech Stack
   ![C++][c++Shield]
@@ -36,7 +40,9 @@
   ##  Reach me
   [![linkedin][linkedin-shield]][linkedin-url]
   <hr>
+  
 
+ 
    <p style="text-align:center">
       Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Work with HTML, JavaScript, Java and C++, always eager to learn and ready to face challenges around the world.
    </p>
@@ -79,9 +85,8 @@ Here are some ideas to get you started:
 
 
 
-
-
-
+[source]:https://git.io/typing-svg
+[Apresentation]:https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=3000&color=001AF7&random=false&width=435&lines=Hi+there%2C+%F0%9F%91%8B+i'm+Vitor
 [ImageGif]:https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcXIybm0zOHJnejBxdWh3Ymg1OGR6ZHdjMWxhMXhmNGNxc2lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 [linkedin-shield]: https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue
 [linkedin-url]: https://www.linkedin.com/in/vitor-hugo99/
