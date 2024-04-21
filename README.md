@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Sung-99&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=Sung-99&style=flat-square&abbreviated=true)
   
    ![ImageGif]
 
