@@ -24,7 +24,7 @@
 ![][views]
 <div align="center">
 
-  ![Snake animation](https://github.com/Sung-99/Sung-99/blob/output/github-contribution-grid-snake.svg)
+
   
    ![ImageGif]
 
@@ -82,7 +82,11 @@ Here are some ideas to get you started:
 ***All links on shields or images
 
 -->
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"   srcset="https://raw.githubusercontent.com/Sung-99/Sung-99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sung-99/Sung-99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sung-99/Sung-99/output/github-contribution-grid-snake.svg">
+  </picture>
 
 [views]:https://komarev.com/ghpvc/?username=Sung-99&style=flat-square&abbreviated=true
 [source]:https://git.io/typing-svg
