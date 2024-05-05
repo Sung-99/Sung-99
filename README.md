@@ -24,7 +24,7 @@
 ![][views]
 <div align="center">
 
-
+  ![Snake animation](https://github.com/Sung-99/Sung-99/blob/output/github-contribution-grid-snake.svg)
   
    ![ImageGif]
 
