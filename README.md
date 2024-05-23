@@ -44,7 +44,7 @@
 
  
    <p style="text-align:center">
-      Passionate developer, with experience in front-end work and applications, great work in algorithm and problem                          resolution. Always eager to learn and ready to face challenges around the world.
+      Passionate developer, with experience in front-end work and applications, dragged for logic in algorithm and problem resolution. Always eager to learn and ready to face challenges around the world.
    </p>
   
   <hr>  
