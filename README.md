@@ -38,6 +38,8 @@
   ![HTML5][html-shield] 
   ![CSS3][css-shield]
   ![JavaScript][JavaScript-shield]
+  ![Node][Node-Shield]
+  ![TypeS][TypeS-Shield]
   
   ##  Reach me
   [![linkedin][linkedin-shield]][linkedin-url]
@@ -108,3 +110,5 @@ Here are some ideas to get you started:
 [Vitor-stats-vercel]:https://github-readme-stats.vercel.app/api?username=Sung-99&show_icons=true&theme=radical
 [Streak-stats]:https://github-readme-streak-stats.herokuapp.com/?user=Sung-99&theme=radical
 [top-langu-vercel]:https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-99&layout=compact&theme=radical
+[Node-Shield]:https://img.shields.io/badge/node--black?style=for-the-badge&logoColor=green&label=NODE&color=black
+[TypeS-Shield]:https://img.shields.io/badge/node--black?style=for-the-badge&logo=TypeScript&logoColor=green&label=TYPE%20SCRIPT&color=black
